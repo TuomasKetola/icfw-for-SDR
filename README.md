@@ -1,5 +1,7 @@
-# A repository detailing the ICFW models described in T .Ketola & T. Roelleke, Automatic and Analytical Field Weighting for Structured Document Retrieval, 2023.
+# Information Content Field Weighting (ICFW) for Structured Document Retrieval
+A repository detailing the ICFW models described in T .Ketola & T. Roelleke, Automatic and Analytical Field Weighting for Structured Document Retrieval, 2023.
 
+## Content
 As the experimentation is based on external datasets (DBpedia, Trec-small-web, HomeDepot) the full experimentaion cannot be run without preprocessing of the data.
 
 The data folder contains examples of .json files which are used for re-ranking by the jupyter notebook.
