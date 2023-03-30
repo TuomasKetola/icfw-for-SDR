@@ -8,5 +8,5 @@ non-optimised-models.ipynb contains the functions and running scripts for the no
 
 optimised-models.ipynb containts the functions required for optimising the two supervised ICFW models. Currently the repository does not contain the functions required for the coordinate ascent optimisation, but their implementation should be relatively straight forward given the paper and the functions in optimised-models.ipynb.
 
-## Support
+## Support
 Do not hesitate to contact me here on any issues regarding the running of the scripts, implementation or anything else.
